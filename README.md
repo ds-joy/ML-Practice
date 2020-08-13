@@ -1,4 +1,4 @@
-# <center> California-Housing </center>
+# <center> Machine Learning </center>
 
-### <center> The main goals of this project is to understand and analyze the California-Housing dataset </center>
+### <center> The purpose of this repo is to store the practiced machine learning problems </center>
 
